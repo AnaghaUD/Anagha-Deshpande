@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnaghaUD
+- 👋 Hi, I’m Anagha.
 - 👀 I’m a passionate technical writer.
 - 🌱 I’m currently working on creating minimalistic content.
 - 💞️ I’m looking to collaborate on different technical writing styles.
